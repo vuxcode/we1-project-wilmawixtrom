@@ -4,5 +4,7 @@
 
 For example: 
 
-- 2022-10-25 13:00 Worked for 1 hour.
-  - *List the things you have done.*
+- 2026-03-28 18:00 Worked for 1 hour.
+  - Putted in my template
+  - Added a background color to the page.
+  - Starting to build the "header". The menu in the top.
