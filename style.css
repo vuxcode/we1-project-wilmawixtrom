@@ -1,7 +1,10 @@
 body{
   background:#faf8f7;
   }
-   .botton-header {
-    width: 100px;
-    height: 50px;
+.botton-header {
+  width: 100px;
+  height: 50px;
   }
+.nav {
+  display: flex;
+  } 
